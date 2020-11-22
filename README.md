@@ -6,3 +6,5 @@
 ## week02
 - JQuery, Ajax
 - concept of API, JSON
+## week03
+- crawling, pymongo, Robo 3T
