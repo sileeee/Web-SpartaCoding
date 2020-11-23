@@ -1,3 +1,4 @@
+# requests와 bs4설치
 import requests
 from bs4 import BeautifulSoup
 
