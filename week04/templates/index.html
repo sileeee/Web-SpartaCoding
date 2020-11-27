@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <title>Document</title>
+</head>
+<body>
+    <h1>서버를 만들었다!</h1>
+    <!--  static폴더 안에 있는 이미지를 찾아 주소 불러와줌  -->
+    <!-- app.py에서 html파일을 가져다가 주고 있으므로 경로 설정에 복잡할수 있으므로 다음과 같이 경로를 지정하도록 하는게 좋음 -->
+    <img src="{{ url_for('static', filename='Swiss.jpg') }}"/>
+</body>
+</html>
