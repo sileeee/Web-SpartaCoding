@@ -7,4 +7,8 @@
 - JQuery, Ajax
 - concept of API, JSON
 ## week03
-- crawling, pymongo, Robo 3T
+- crawling(requests, bs4..), pymongo, Robo 3T
+## week04
+- flask, POST, GET
+## week05
+- AWS, mongoDB, portforwarding, nohup, domain, og tag
