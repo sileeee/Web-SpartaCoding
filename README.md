@@ -9,6 +9,6 @@
 ## week03
 - crawling(requests, bs4..), pymongo, Robo 3T
 ## week04
-- flask, POST, GET
+- flask, GET, POST
 ## week05
 - AWS, mongoDB, portforwarding, nohup, domain, og tag
